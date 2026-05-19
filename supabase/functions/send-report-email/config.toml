@@ -1,0 +1,3 @@
+# supabase/functions/send-report-email/config.toml
+# This makes the function callable without a user JWT.
+verify_jwt = false
